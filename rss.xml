@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testgold]]></title>
+        <description><![CDATA[Testgold]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 19:07:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Comments]]></title>
+            <description><![CDATA[<article><h1>Comments</h1><p>חזרנו מאוזורה ושאר הפסטיבלים באירופה והיה נפלא! מעכשיו חודש אחד ואתם מקבלים את הדבר האמיתי בישראל - פסטיבל טוויסטד העולמי מגיע בגרסא החדשה והמהודקת שלו אי פעם - Twistival 2016 Israel</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ea505cf0efa47291479424c1069860b/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft15.0-10%2Fcp0%2Fe15%2Fq65%2Fs320x320%2F13935882_900389123437851_1559778100_n.jpg%3Foh%3D618ee39e43233fb5cc613122f3f6877f%26oe%3D584EDF2E"></article>]]></description>
+            <link>https://m.facebook.com/story.php?story_fbid=900386346771462&amp;id=297410203735749&amp;ref=bookmarks</link>
+            <guid isPermaLink="false">61bf98ea-902a-4e6d-aa4f-d3ca6231e0ba</guid>
+            <pubDate>Wed, 10 Aug 2016 19:07:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
