@@ -1,14 +1,26 @@
-layout_spectrum: 0.8046595
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4103943
 color:
   saturation: 0.749104
-  lightness: 0.7795699
   brandStrength: 0.1297099
+  rhythmicContrast: 0.7392672
   brandColors:
     - '#FFFFFF'
     - '#D3C996'
     - '#4D4D4D'
     - '#777777'
     - '#2E2E2E'
-  rhythmicContrast: 0.7392672
+  lightness: 0.7795699
+layout_spectrum: 0.4014337
 name: Testgold
